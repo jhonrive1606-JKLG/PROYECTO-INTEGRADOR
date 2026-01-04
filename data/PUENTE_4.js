@@ -1,0 +1,1 @@
+var json_PUENTE_4 = {"type":"FeatureCollection","name":"PUENTE_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","NORTE":9620380.54,"ESTE":614367.51,"NOMBRE":"PUENTE PITAL"},"geometry":{"type":"Point","coordinates":[-79.970427076563638,-3.433938169848105]}}]}
